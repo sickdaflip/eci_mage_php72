@@ -1,0 +1,15 @@
+{
+  "name": "sickdaflip/eci_mage_php72",
+  "type": "magento-module",
+  "license": "MIT",
+  "description": "Magento Module Sysgrade ECI",
+  "authors": [
+    {
+      "name": "SickDaFlip",
+      "email": "philippbreitsprecher@gmail.com"
+    }
+  ],
+  "require": {
+    "magento-hackathon/magento-composer-installer": "*"
+  }
+}
